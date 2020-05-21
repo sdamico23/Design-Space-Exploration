@@ -1,0 +1,1 @@
+unsigned int ul2size = getl2size(halfBackedConfig);
